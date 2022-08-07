@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zuri-website/static/css/main.fef7e96a.css",
+    "main.js": "/zuri-website/static/js/main.8bfed0b0.js",
+    "index.html": "/zuri-website/index.html",
+    "main.fef7e96a.css.map": "/zuri-website/static/css/main.fef7e96a.css.map",
+    "main.8bfed0b0.js.map": "/zuri-website/static/js/main.8bfed0b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fef7e96a.css",
+    "static/js/main.8bfed0b0.js"
+  ]
+}
