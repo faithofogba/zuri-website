@@ -1,0 +1,60 @@
+.container {
+    background-color: #fff;
+}
+
+.hero-section {
+    background-image: url("https://zuri.team/img/hero-bg.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+    padding-top: 4.5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.hero {
+    max-width: 50%;
+    text-align: center;
+}
+
+.hero .logo {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 6rem;
+}
+
+.hero-header {
+    margin-bottom: 3rem;
+}
+
+.hero-text {
+    margin-bottom: 6rem;
+}
+
+.hero-text a {
+    text-decoration: none;
+    color: #E7332B;
+}
+
+.about-section {
+    padding-top: 8rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.about-section .header {
+    margin: auto;
+    text-align: center;
+}
+
+.about-section .header h2 {
+    text-transform: capitalize;
+    color: #E7332B;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+
+.about-section .header span {
+    text-transform: uppercase;
+}
